@@ -12,7 +12,7 @@
 
 - CONSTRAINTS :
 1. Time limit 60 seconds
-2. Cannot move when tackled by other player
+2. Cannot move immediately when tackled by other player
 
 - CONTROLS :
 
