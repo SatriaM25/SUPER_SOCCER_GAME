@@ -2,7 +2,7 @@
 
 > GOAL : Score More Goals than Your Opponent
 
-- STEP-BY-STEP TO RUN THE PROJECT ON YOUR COMPUTER:
+- STEP-BY-STEP TO RUN THE PROJECT ON YOUR COMPUTER :
 1. Zip the folder on github
 2. Extract the zip file on your computer
 3. Open the folder with Visual Studio Code (or any IDE that supports PyGame)
@@ -10,6 +10,9 @@
 5. Wait until it is loaded
 6. Done.
 
+- CONSTRAINTS :
+1. Time limit 60 seconds
+2. Cannot move when tackled by other player
 
 - CONTROLS :
 
@@ -43,7 +46,7 @@
 
 ![AIM](https://user-images.githubusercontent.com/77273824/165160891-eaca8df6-5d15-4f5d-8862-a4a9c992a5e6.gif)
 
->SHOOT
+>SHOOT & BOUNCE
 
 ![SHOOT](https://user-images.githubusercontent.com/77273824/165160913-709ad21f-9aab-499c-b504-5525624a9792.gif)
 
